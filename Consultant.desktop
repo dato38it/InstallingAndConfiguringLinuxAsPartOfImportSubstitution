@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ConsultantPlus
+Exec=wine /mnt/.thost/Сonsultant/cons.exe
+Type=Application
+StartupNotify=true
+Comment=ConsultantPlus
+icon=43D4_Cons.0
+StartupWMClass=c.exe

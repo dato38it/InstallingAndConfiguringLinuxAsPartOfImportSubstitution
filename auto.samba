@@ -1,0 +1,3 @@
+Consultant    -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1     ://thost/Consultant
+Students      -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1       ://thost/Students
+Consultant    -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1     ://thost/Consultant\$

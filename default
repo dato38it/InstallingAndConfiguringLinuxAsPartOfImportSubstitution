@@ -1,0 +1,8 @@
+default menu.c32
+PROMPT 0
+TIMEOUT 150
+MENU TITLE PXE Menu
+LABEL REDOS 7.3
+MENU LABEL REDOS 7.3
+KERNEL images/REDOS/images/pxeboot/vmlinuz
+APPEND initrd=images/REDOS/images/pxeboot/initrd.img ramdisk_size=128000 ip=dhcp inst.repo=http://IpAddr1/images/REDOS/ 
