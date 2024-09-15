@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=ConsultantPlus
-Exec=wine /mnt/.thost/Сonsultant/cons.exe
+Exec=wine /mnt/.windowsserver/Сonsultant/cons.exe
 Type=Application
 StartupNotify=true
 Comment=ConsultantPlus
