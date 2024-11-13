@@ -1,2 +1,0 @@
-s    -fstype=cifs,multiuser,cruid=$USER,sec=krb5,domain=tdomain.ru,vers=1.0 ://windowsserver/Student
-o    -fstype=cifs,multiuser,cruid=$USER,sec=krb5,domain=tdomain.ru,vers=1.0 ://windowsserver/ОбщаяПапка

@@ -1,3 +1,0 @@
-Consultant    -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1     ://windowsserver/Consultant
-Students      -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1       ://windowsserver/Students
-Consultant    -fstype=cifs,multiuser,cruid=tuser,sec=krb5,domain=tdomain.RU,vers=2.1     ://windowsserver/Consultant\$
